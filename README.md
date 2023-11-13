@@ -2,4 +2,4 @@
 
 - 🌱 Atualmente: Aprendendo CSS
 - 📫 Como chegar até mim : julliakathelyn07@gmail.com
-- 😄 Pronouns: ele/dela
+- 😄 Pronomes: ela/dela
