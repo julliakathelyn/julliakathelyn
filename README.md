@@ -21,17 +21,3 @@
    </div>
     
   
-  <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: julliakathelyn@gmail.com">
-      <img width="30" src="gmail.svg">
-    </a>
-    <a href = "(https://www.linkedin.com/in/jullia-kathelyn-85116a233/)">
-      <img width="25" src="linkedin.svg">
-    </a>
-    </a>
-    <a href = "https://www.instagram.com/julliakathelyn/">
-      <img width="25" src="instagram.png">
-    </a>
-</div>
-  
-![Snake animation](https://github.com/julliakathelyn/julliakathelyn/blob/output/github-contribution-grid-snake.svg)
