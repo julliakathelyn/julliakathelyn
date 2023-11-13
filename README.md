@@ -1,4 +1,4 @@
-### Oiee !! Eu sou a Jullia Kathelyn! 👋
+### Oiee !!Jullia Kathelyn aqui! 👋
 
 - 🌱 Atualmente: Aprendendo CSS
 - 📫 Como chegar até mim : julliakathelyn07@gmail.com
