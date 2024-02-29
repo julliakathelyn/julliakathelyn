@@ -1,6 +1,6 @@
 ### Oiee !!Jullia Kathelyn aqui! 👋
 
-- 🌱 Atualmente: Aprendendo CSS
+- 🌱 Atualmente: Aprendendo Java
 - 📫 Como chegar até mim : julliakathelyn07@gmail.com
 - 😄 Pronomes: ela/dela
 
