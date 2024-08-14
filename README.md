@@ -1,4 +1,8 @@
-<h2 align="left">Olaa 👋! Bem vindos ao meu Perfil no GitHub </h2>
+<h2 align="left">Olaa! Jullia Kathelyn aqui! 👋 </h2>
+<h4>Bem vindos ao meu perfil no GitHub</h3>
+<li>🌱 Atualmente: Aprendendo Java e JavaScript</li>
+<li>📫 Como chegar até mim : julliakathelyn07@gmail.com</li>
+<li>😄 Pronomes: ela/dela</li>
 
 ###
 
@@ -11,7 +15,7 @@
 
 
 ###
-
+<h1 align="center">Melhores Tecnologias <3</h1>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
