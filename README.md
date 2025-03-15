@@ -1,6 +1,6 @@
 <h2 align="left">Olaa! Jullia Kathelyn aqui! 👋 </h2>
 <h4>Bem vindos ao meu perfil no GitHub</h3>
-<li>🌱 Atualmente: Aprendendo Python </li>
+<li>🌱 Atualmente: Lógica de programação com Portugol </li>
 <li>📫 Como chegar até mim : julliakathelyn07@gmail.com</li>
 <li>😄 Pronomes: ela/dela</li>
 
