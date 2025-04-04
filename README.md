@@ -29,8 +29,16 @@
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" alt="java"/>
   <img width="20" />
-  <img src="https://icongr.am/devicon/git-original-wordmark.svg?size=128&color=currentColor" height="40" alt="java"/>
+  <img src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" height="40" alt="git"/>
   <img width="20" />
+  <img src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=128&color=currentColor" height="40" alt="git"/>
+  <img width="20" />
+  <img src="https://icongr.am/devicon/react-original-wordmark.svg?size=128&color=currentColor" height="40" alt="git"/>
+  <img width="20" />
+  <img src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor" height="40" alt="git"/>
+  <img width="20" />
+  
+
   
 </div><hr>
 
