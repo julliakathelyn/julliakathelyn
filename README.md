@@ -12,7 +12,7 @@
 
 <li>🎓 Formação: Sistemas De Informação </li>
 <li>🎒 Habilidades: JavaScript, Java, HTML, CSS, MySQL, PowerBi </li>
-<li>💻 Atualmente: Lógica de programação com JavaScript React e Bootstrap </li>
+<li>💻 Atualmente: Lógica de programação com JavaScript | React e Bootstrap </li>
 <li>🌏 Idiomas: Portugues(nativo) Ingles(Avançado) </li>
 <li>📫 Como chegar até mim : julliakathelyn07@gmail.com</li>
 
