@@ -10,9 +10,11 @@
 ###
 <h2 align="left">Sobre Mim </h2>
 
-<li>🌱 Atualmente: Lógica de programação com JavaScript </li>
+<li>🎓 Formação: Sistemas De Informação </li>
+<li>🎒 Habilidades: JavaScript, Java, HTML, CSS, MySQL, PowerBi </li>
+<li>💻 Atualmente: Lógica de programação com JavaScript React e Bootstrap </li>
+<li>🌏 Idiomas: Portugues(nativo) Ingles(Avançado) </li>
 <li>📫 Como chegar até mim : julliakathelyn07@gmail.com</li>
-<li>😄 Pronomes: ela/dela</li>
 
 ###
 <h1 align="center">Melhores Tecnologias <3</h1>
@@ -33,7 +35,7 @@
 
 ###
 
-<div align="right">
+<div align="left">
   
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <a href="https://www.linkedin.com/in/jullia-kathelyn-85116a233/">
