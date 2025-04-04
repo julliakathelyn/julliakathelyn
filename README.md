@@ -8,7 +8,7 @@
 </div>
 
 ###
-<h2 align="left">Sobre Mim </h2>
+<h2 align="left">📌Sobre Mim </h2>
 
 <li>🎓 Formação: Sistemas De Informação </li>
 <li>🎒 Habilidades: JavaScript, Java, HTML, CSS, MySQL, PowerBi </li>
