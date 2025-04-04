@@ -1,4 +1,4 @@
-<h2 align="left">Olaa! Jullia Kathelyn aqui! 👋 </h2>
+<h2 align="center">Olaa! Jullia Kathelyn aqui! 👋 </h2>
 <h4>Bem vindos ao meu perfil no GitHub</h3>
 <li>🌱 Atualmente: Lógica de programação com JavaScript </li>
 <li>📫 Como chegar até mim : julliakathelyn07@gmail.com</li>
