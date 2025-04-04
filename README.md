@@ -20,23 +20,23 @@
 <h1 align="center">⭐Melhores Tecnologias⭐ </h1>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="20" />
+  <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="20" />
+  <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="20" />
+  <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="20" />
+  <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" alt="java"/>
-  <img width="20" />
+  <img width="30" />
   <img src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" height="40" alt="git"/>
-  <img width="20" />
+  <img width="30" />
   <img src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=128&color=currentColor" height="40" alt="git"/>
-  <img width="20" />
+  <img width="30" />
   <img src="https://icongr.am/devicon/react-original-wordmark.svg?size=128&color=currentColor" height="40" alt="git"/>
-  <img width="20" />
+  <img width="30" />
   <img src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor" height="40" alt="git"/>
-  <img width="20" />
+  <img width="30" />
   
 
   
