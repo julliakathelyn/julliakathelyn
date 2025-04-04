@@ -1,9 +1,5 @@
 <h1 align="center">Olaa! Jullia Kathelyn aqui! 👋 </h1>
 
-<li>🌱 Atualmente: Lógica de programação com JavaScript </li>
-<li>📫 Como chegar até mim : julliakathelyn07@gmail.com</li>
-<li>😄 Pronomes: ela/dela</li>
-
 ###
 
 <div align="center">
@@ -13,6 +9,9 @@
 
 ###
 
+<li>🌱 Atualmente: Lógica de programação com JavaScript </li>
+<li>📫 Como chegar até mim : julliakathelyn07@gmail.com</li>
+<li>😄 Pronomes: ela/dela</li>
 
 ###
 <h1 align="center">Melhores Tecnologias <3</h1>
