@@ -8,6 +8,7 @@
 </div>
 
 ###
+<h1 align="left">Sobre Mim </h1>
 
 <li>🌱 Atualmente: Lógica de programação com JavaScript </li>
 <li>📫 Como chegar até mim : julliakathelyn07@gmail.com</li>
