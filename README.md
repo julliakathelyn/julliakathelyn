@@ -1,6 +1,6 @@
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Jullia+Kathelyn+xD;Sou+Desenvolvedora+Full-Stack.;Sejam+Bem-Vindos!!!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Oiee,+Jullia+Kathelyn+aqui!+xD;Sou+Desenvolvedora+Full-Stack.;Sejam+Bem-Vindos!!!!)](https://git.io/typing-svg)
 
 ###
 
