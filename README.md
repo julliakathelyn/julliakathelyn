@@ -1,4 +1,4 @@
-https://capsule-render.vercel.app/api?type=waving&height=100&color=4D0C83
+<img src= "https://capsule-render.vercel.app/api?type=waving&height=100&color=4D0C83"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Jullia+Kathelyn+xD;Sou+Desenvolvedora+Full-Stack.;Sejam+Bem-Vindos!!!!)](https://git.io/typing-svg)
 
@@ -53,6 +53,8 @@ https://capsule-render.vercel.app/api?type=waving&height=100&color=4D0C83
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=4D0C83&section=footer"/>
 
 
 
