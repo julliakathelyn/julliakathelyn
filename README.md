@@ -19,7 +19,7 @@
 <li>📫 Como chegar até mim : julliakathelyn07@gmail.com</li>
 
 ###
-<h1 align="center">⭐Melhores Tecnologias⭐ </h1>
+<h1 align="center">⭐ Melhores Tecnologias⭐ </h1>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="30" />
