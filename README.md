@@ -14,7 +14,7 @@
 
 <li>🎓 Formação: Sistemas De Informação </li>
 <li>🎒 Habilidades: JavaScript, Java, HTML, CSS, MySQL, PowerBi </li>
-<li>💻 Atualmente: Angular </li>
+<li>💻 Atualmente Aprendendo: Angular </li>
 <li>🌏 Idiomas: Portugues(nativo) Ingles(Intermediario) </li>
 <li>📫 Como chegar até mim : julliakathelyn07@gmail.com</li>
 
