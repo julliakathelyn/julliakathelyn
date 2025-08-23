@@ -39,6 +39,7 @@
   <img width="30" />
   <img src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor" height="40" alt="git"/>
   <img width="30" />
+  <img alt="Figma" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   
 
   
