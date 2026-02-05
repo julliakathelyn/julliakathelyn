@@ -23,6 +23,8 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="30" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/angular/angular-original.svg" height="40" alt="angular logo"  />
+  <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -40,8 +42,12 @@
   <img src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor" height="40" alt="git"/>
   <img width="30" />
   <img alt="Figma" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-  
-
+  <img width="30" />
+  <img alt="Figma" height="40" width="40" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/primeng/primeng-original.svg">
+  <img width="30" />
+  <img alt="Figma" height="40" width="40" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/trello/trello-plain-wordmark.svg">  
+  <img width="30" />
+  <img alt="Figma" height="40" width="40" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/vitejs/vitejs-original.svg">  
   
 </div>
 
