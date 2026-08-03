@@ -13,8 +13,8 @@
 <h2 align="left">📌Sobre Mim </h2>
 
 <li>🎓 Formação: Sistemas De Informação </li>
-<li>🎒 Habilidades: JavaScript, Java, HTML, CSS, MySQL, PowerBi, Angular, React, Primeng </li>
-<li>💻 Atualmente Aprendendo: React e Strapi </li>
+<li>🎒 Habilidades: JavaScript, Java, HTML, CSS, MySQL, PowerBi, Angular, React, Primeng, N8N, Docker </li>
+<li>💻 Atualmente Aprendendo: Oracle Cloud </li>
 <li>🌏 Idiomas: Portugues(nativo) Ingles(Intermediario) </li>
 <li>📫 Como chegar até mim : julliakathelyn07@gmail.com</li>
 
