@@ -48,6 +48,24 @@
   <img alt="Figma" height="40" width="40" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/trello/trello-plain-wordmark.svg">  
   <img width="30" />
   <img alt="Figma" height="40" width="40" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/vitejs/vitejs-original.svg">  
+  <img width="30" />
+  <img alt="Figma" height="40" width="40" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/docker/docker-plain-wordmark.svg"> 
+  <img width="30" />
+  <img alt="Figma" height="40" width="40" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/jira/jira-original.svg"> 
+  <img width="30" />
+  <img alt="Figma" height="40" width="40" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/postgresql/postgresql-plain-wordmark.svg"> 
+  <img width="30" />
+  <img alt="Figma" height="40" width="40" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/tailwindcss/tailwindcss-original-wordmark.svg"> 
+  <img width="30" />
+  <img alt="Figma" height="40" width="40" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/typescript/typescript-original.svg"> 
+  <img width="30" />
+  <img alt="Figma" height="40" width="40" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/vitejs/vitejs-original.svg"> 
+   <img width="30" />
+  <img alt="Figma" height="40" width="40" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/vscode/vscode-original.svg"> 
+  
+
+   
+   
   
 </div>
 
